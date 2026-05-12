@@ -25,3 +25,14 @@ A simple Snake Game built using Node.js in the terminal/console. <br><br>
 - Chalk
 - Readline
 - File System (`fs`)
+
+---
+
+## Install Dependencies
+
+```bash
+npm install
+```
+
+This will install all required packages.
+```

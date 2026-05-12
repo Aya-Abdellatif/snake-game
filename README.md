@@ -43,3 +43,14 @@ This will install all required packages.
 ```bash
 node snake.js
 ```
+
+---
+## Controls
+
+| Key | Action     |
+| --- | ---------- |
+| ⬆️  | Move Up    |
+| ⬇️  | Move Down  |
+| ⬅️  | Move Left  |
+| ➡️  | Move Right |
+| q   | Quit Game  |

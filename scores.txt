@@ -1,0 +1,10 @@
+[5/13/2026, 12:46:39 AM] Score: 130 | Snake Length: 2 | Reason: You hit the wall!
+[5/13/2026, 12:47:55 AM] Score: 330 | Snake Length: 5 | Reason: You hit the wall!
+[5/13/2026, 12:52:56 AM] Score: 520 | Snake Length: 7 | Reason: You hit the wall!
+[5/13/2026, 12:59:01 AM] Score: 30 | Snake Length: 1 | Reason: You hit the wall!
+[5/13/2026, 1:00:04 AM] Score: 270 | Snake Length: 4 | Reason: You hit the wall!
+[5/13/2026, 1:01:43 AM] Score: 250 | Snake Length: 4 | Reason: You hit the wall!
+[5/13/2026, 1:02:19 AM] Score: 30 | Snake Length: 1 | Reason: You hit the wall!
+[5/13/2026, 1:02:25 AM] Score: 30 | Snake Length: 1 | Reason: You hit the wall!
+[5/13/2026, 1:02:32 AM] Score: 30 | Snake Length: 1 | Reason: You hit the wall!
+[5/13/2026, 1:03:14 AM] Score: 290 | Snake Length: 4 | Reason: You hit the wall!

@@ -35,3 +35,11 @@ npm install
 ```
 
 This will install all required packages.
+
+---
+
+## Run the Game
+
+```bash
+node snake.js
+```
